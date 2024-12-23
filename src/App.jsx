@@ -3,7 +3,6 @@ import './App.css'
 import CustomPhoneNumberInput from './components/PhoneInput';
 
 function App() {
-  const [phone, setPhone] = useState('');
 
   return (
     <>
